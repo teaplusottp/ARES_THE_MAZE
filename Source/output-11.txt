@@ -1,0 +1,13 @@
+A*
+Steps: 211, Weight: 362, Node: 5485501, Time (ms): 282591.74, Memory (MB): 1013.95
+uluurDrrddrUrrRRRuRRRurDllllddrUluRRRurrdLulDllldlllllluurDldRRRRRRdrUluRRRurrdLLLLulDrdLLLdlUllullllddrUluRRRurDldRRRRRRdrUluRRRurrdLLLLulDrrrrrddlUruLLLLdLLLLLLdlUrrrrrrruulDrrrrddlUruLLLdLLLLLLuLLLrrrdrrruulD
+BFS
+Steps: 0, Weight: 0, Node: 0, Time (ms): 3.54, Memory (MB): 0.01
+
+DFS
+Steps: 0, Weight: 0, Node: 0, Time (ms): 1.99, Memory (MB): 0.00
+
+UCS
+Steps: 0, Weight: 0, Nodes: 0, Time (ms): 8.55, Memory (MB): 0.01
+
+

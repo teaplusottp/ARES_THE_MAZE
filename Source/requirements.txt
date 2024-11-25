@@ -1,0 +1,8 @@
+pip install pygame
+pip install os
+pip install sys
+pip install datetime
+pip install numpy
+pip install copy
+pip install dataclasses
+pip install typing
